@@ -29,7 +29,7 @@ class LocalImageBugExample extends Component {
   }
 
   render() {
-    let filePath = `ms-appdata:///Local/flowers.jpg`;
+    let filePath = `ms-appdata:///Local/appFlowers.jpg`;
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
